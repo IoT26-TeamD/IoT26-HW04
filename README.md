@@ -2,6 +2,7 @@
 ## Raspberry Pi Web Server using Flask to Control GPIOs
 
 - Videos via embedded GIFs
+  
   <img width="400" height="225" alt="IoT26-HW04" src="https://github.com/user-attachments/assets/d295b8be-6a1e-4557-a6b0-677f8d4f472f" />
   
 - Screenshots of your working project
